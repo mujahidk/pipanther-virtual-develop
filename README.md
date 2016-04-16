@@ -6,6 +6,15 @@ Pi Panther Project
 ------------------
 [GitHub - http://mujahidk.github.io/pipanther/](http://mujahidk.github.io/pipanther/)
 
+Setup
+-----
+ - Requirements
+  - [Install Virtual Box](https://www.virtualbox.org/)
+  - [Install Vagrant](https://www.vagrantup.com/)
+ - Clone this repository [pipanther-virtual-develop
+](https://github.com/mujahidk/pipanther-virtual-develop)
+ - Run `vagrant up` inside cloned repository.
+
 Puppet Process
 --------------
  - Use `hashicorp/precise32` Vagrant Box
