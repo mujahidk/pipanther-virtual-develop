@@ -13,7 +13,7 @@ Setup
   - [Install Vagrant](https://www.vagrantup.com/)
  - Clone this repository [pipanther-virtual-develop
 ](https://github.com/mujahidk/pipanther-virtual-develop)
- - Run `vagrant up` inside cloned repository.
+ - Run `vagrant up` inside cloned project directory.
 
 Puppet Process
 --------------
